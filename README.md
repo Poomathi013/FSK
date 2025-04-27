@@ -87,7 +87,8 @@ plt.show()
 ```
 # Output Waveform
 ```
-![WhatsApp Image 2025-04-25 at 10 53 10_8a5b27e1](https://github.com/user-attachments/assets/7152586a-0682-4fdf-947f-6e353a5e0849)
+![dc o-p](https://github.com/user-attachments/assets/1b1a6f54-5c7d-4eae-897f-469b8c18f520)
+
 
 ```
 # Results
